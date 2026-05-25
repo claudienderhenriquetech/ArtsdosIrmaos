@@ -14,24 +14,27 @@ O Arts dos Irmãos é um projeto voltado ao desenvolvimento criativo infantil po
 ---
 
 ## 🎯 Objetivo
-Estimular a criatividade, coordenação motora e expressão artística de crianças através da arte.
+“Estimular a criatividade e promover o desenvolvimento das crianças, valorizando suas habilidades e potencial para o futuro profissional.”
 
 ---
 
 ## 👥 Público-alvo
-Crianças de 5 a 12 anos.
+Crianças Meus Filhos 
 
 ---
 
 ## 🧩 Estrutura do projeto
-- Oficinas de desenho e pintura
+- Oficinas de desenho , pintura, quadrinhos , oficina de marcenaria, eletrica/eletronica e robotica com funçoes e intalações e programas simples e dificultando para desenvolvelos e achar suas desenvolturas.
 - Atividades com materiais recicláveis
 - Projetos artísticos colaborativos
+- Projetos de empreendedorismo
+- matematica e calculos financeiros
+- segurança em trabalhos e EPIS
 
 ---
 
 ## 🚧 Status
-Em fase de desenvolvimento (projeto de desenvovimento dos Meus Filhos e Primos(as))
+Em fase de desenvolvimento (projeto de desenvovimento dos Meus Filhos )
 
 ---
 
